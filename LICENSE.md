@@ -19,27 +19,37 @@ number of restrictions.
 ### 1. Definitions.
   1.1 "This License" refers to version 1 of the GOC General Open
 Control License.
+
   1.2 "Contributor" means each individual or legal entity that creates,
 contributes to the creation of, or owns Covered Software.
+
   1.3 "Copyright" also means copyright-like laws that apply to other
 kinds of works, such as semiconductor masks.
+
   1.4 "Covered Software" means either the unmodified Software or a work
 based on the Software in either Source Code Form or Executable Form that
 is licenced or sublicenced under the GOC General Open Control License.
+
   1.5 "Software Form" means the uncopiled form of the Software that is
 NOT in an Executable Form.
+
   1.6 "Executable Form" means the compiled form of the Software that is
 NOT in a Source Code Form.
+
   1.7 "Larger Form" means a work that combines Covered Software with
 other material, in a separate file or files, that is not Covered Software.
+
   1.8 "Modify" means to change/update/introduce files in the Covered
 Software that differs from its prior state.
+
   1.9 "Secondary License" means either the GNU General Public License,
   Version 2.0, the GNU Lesser General Public License, Version 2.1, the
   GNU Affero General Public License, Version 3.0, or any later versions
   of those licenses.
+  
   1.10 "You" (or "Your") means a legal entity or individual exercising
 rights under this License.
+
   1.11 "Sublicense" is a license granted to a third party by a licensee,
 extending some rights or privileges that the licensee enjoys.
   
@@ -48,21 +58,28 @@ extending some rights or privileges that the licensee enjoys.
 distributes the contribution containing a copy of This License or a
 refference to This License as being the main (or sub)licence for the
 contribution.
+
   2.2 Each Contributor hereby grants You a world-wide, royalty-free,
 non-exclusive license:
+
     a. to use/reproduce/modify/distribute/sublicense the Covered Software
   either on an unmodified basis, with Modifications, or as part of a
   Larger Work; and
+  
     b. to make/use/sell/offer for sale/have made/import any and/or all
   contributions to the Covered Software.
+  
   2.3 The licenses granted in this Section 2 are the only rights granted
 under this License. Not including or limited to;
+
     a. any rights granted by any sublicense that does not infringe on
   any rights granted by This License.
+  
     b. (if This License is not the primary license) any rights granted
   by the primary license. If any rights granted by This License
   infringe on any rights granted by the primary license This License is
   under submission to the primary license of the Covered Software.
+  
   2.4 The Contributors can grant additional rights and conditions in
 the form of any sublicense for any Covered Software.
   
@@ -70,18 +87,24 @@ the form of any sublicense for any Covered Software.
   3.1 All distributions of the Covered Software in Source Code Form
 must be under the terms of This License. You must post notice in that
 the Source Code Form of the Covered Software is governed by This License.
+
   3.2 All distributions of the Covered Software in Executable Form must
 be under the terms of This License and;
+
     a. the Source Code of the Covered Sorftware Form must be made
   avilable.
+  
   3.3 You may not remove or alter the substance of any license notices.
   
 ### 4. Termination.
   4.1 If any of the Terms and Conditions are not met the rights granted
 in secction 2 of This License are void.
+
   4.2 If you cease all violation of This License then your license is
 reinstated;
+
     a. until the copyright holder terminates your license.
+    
   4.3 If You initiate litigation against any entity by asserting a
 patent infringement claim alleging that a Contributor Version directly
 or indirectly infringes any patent, then the rights granted to You by
