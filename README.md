@@ -9,6 +9,7 @@ Benefits of the GOC License include:
 * Private Use
 * Forks of your open-source software are required to disclose source
 * You are not held liable for warenty
+* Sublicensing
 
 The license can be found in the [LICENSE.txt](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.txt) file but can also be found in the [LICENSE.md](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.md) file for use on github
 
