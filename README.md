@@ -5,7 +5,7 @@ The license can be found in the [LICENSE.txt](https://github.com/JTechMe/GOC-Gen
 ````
 Copyright 2015 Josiah Horton
 
-JumpGo Browser
+GOC-General-Open-Control-License-v1.0 README.md
 
    This Source Code Form is subject to the terms of the 
    General Open Control License, v. 1.0. If a copy of the GOC 
