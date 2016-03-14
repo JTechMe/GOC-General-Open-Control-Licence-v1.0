@@ -11,7 +11,7 @@ Benefits of the GOC License include:
 * You are not held liable for warenty
 * Sublicensing
 
-## The license can be found in the [LICENSE.txt](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.txt) file but can also be found in the [LICENSE.md](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.md) file for use on github
+### The license can be found in the [LICENSE.txt](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.txt) file but can also be found in the [LICENSE.md](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.md) file for use on github
 
 An example of the License Notice follows;
 ````
