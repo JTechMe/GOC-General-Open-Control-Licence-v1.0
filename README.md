@@ -1,5 +1,6 @@
 # GOC-General-Open-Control-Licence-v1.0
 The General Open Control Licence is an Open Source Licence for general use in open-source software.
+#![](GOC_100x45.png)
 
 Benefits of the GOC License include:
 * A short and understandable license
