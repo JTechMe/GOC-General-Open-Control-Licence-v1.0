@@ -1,0 +1,7 @@
+{
+  "name": "Goc-general-open-control-licence-v1.0",
+  "tagline": "The General Open Control License for Open Source Software",
+  "body": "# GOC-General-Open-Control-Licence-v1.0\r\nThe General Open Control Licence is an Open Source Licence for general use in open-source software.\r\n#![](GOC_100x45.png)\r\n\r\nBenefits of the GOC License include:\r\n* A short and understandable license\r\n* Commercial Use\r\n* Distribution of your open-source software\r\n* Modification of your open-source software\r\n* Private Use\r\n* Forks of your open-source software are required to disclose source\r\n* You are not held liable for warenty\r\n* Sublicensing\r\n\r\n### The license can be found in the [LICENSE.txt](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.txt) file but can also be found in the [LICENSE.md](https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/blob/master/LICENSE.md) file for use on github\r\n\r\nAn example of the License Notice follows;\r\n````\r\nCopyright 2015 Josiah Horton\r\n\r\nGOC-General-Open-Control-License-v1.0 README.md\r\n\r\n   This Source Code Form is subject to the terms of the \r\n   General Open Control License, v. 1.0. If a copy of the GOC \r\n   was not distributed with this file, You can obtain one at \r\n   \r\n   https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/\r\n````\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
